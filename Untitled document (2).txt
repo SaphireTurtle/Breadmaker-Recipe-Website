@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Maryam's Modified Sweet Bread Recipe</title>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h1>Maryam's Modified Sweet Bread Recipe</h1> <!--This is the title of the page -->
+    <script src="script.js"></script>
+
+
+    <div>
+      <p><em>I am making this to create a saved version of a modified bread recipe. The original recipe overflows in my aunt's breadmaker, so I hope she can easily make bread in her breadmaker without it overflowing.</em></p>
+    </div>
+    
+    <hr>
+    
+    <div> <!--This is the hotlink to the original reipe -->
+      <a href="https://www.youtube.com/watch?v=DZwNpADO9ls&t=216s"><h2>Recipe Source</h2></a> 
+    </div>
+    
+    <hr>
+    
+    <div><h2>The Recipe: Breadmaker Sweet Bread</h2></div>
+
+
+    <hr>
+    
+    <h3><u>Ingredients</u></h3>
+
+
+    <div>
+      <ul>
+        <li>1 cup and 2 Tbsp of Water</li>
+        <li>1.5 Tbsp butter</li>
+        <li>3 cups of All-Purpose flour</li>
+        <li>1 and 1/2 teaspoons of yeast</li>
+        <li>3 Tbsp Sugar</li>
+        <li>3/4 tsp salt</li>
+      </ul>
+    </div>
+
+
+    <h3><u>Instructions</u></h3>
+
+
+    <div>
+      <ol>
+        <li>Add the water to the breadmaker basket</li>
+        <li>Add the butter.</li>
+        <li>Add the flour</li>
+        <li>Add the rest of the dry ingredients</li>
+        <li>Choose the normal bread setting on your breadmaker. Make sure it is on 2lb loaf setting and medium crust. Press start, and let the breadmaker do it's magic!</li>
+        <li>Take it out and enjoy!</li>
+      </ol>
+    </div>
+    
+  </body>
+</html>
